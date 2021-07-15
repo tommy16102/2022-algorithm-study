@@ -1,5 +1,5 @@
 /**
- * Algorithm STudy
+ * Algorithm Study
  * Programmers 코딩테스트 고득점 Kit
  * Hash / 완주하지 못한 선수
  * 2021 / 07 / 12  이호준

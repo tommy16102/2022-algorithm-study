@@ -1,5 +1,5 @@
 /**
- * Algorithm STudy
+ * Algorithm Study
  * Programmers 코딩테스트 고득점 Kit
  * Heap / 더 맵게
  * 2021 / 07 / 12  이호준
