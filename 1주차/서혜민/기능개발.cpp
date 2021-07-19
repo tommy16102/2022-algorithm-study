@@ -3,6 +3,16 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+2021.07.12 서혜민
+
+res벡터에 작업까지 걸리는 일수를 저장한다.
+처음의 값을 max로 지정한 뒤, for문을 통해서 max보다 작다면 result벡터에 그 값을 넣어주다가
+max보다 큰 값을 만나면 이 값을 max로 지정한뒤, answer벡터에 현재 result벡터에 저장된 값의 수를 저장한다.
+
+*/
+
 vector<int> solution(vector<int> progresses, vector<int> speeds) {
     vector<int> res;
     for (int i = 0;i < progresses.size();i++) {

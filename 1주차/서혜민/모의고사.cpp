@@ -3,6 +3,20 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+2021.07.12 서혜민
+
+answer 배열 - 수포자 3명의 답을 찍는 방식의 패턴을 저장!
+count배열 - 수포자 3명의 맞은 정답의 개수를 저장!
+for문을 돌려 문제마다 정답과 수포자의 찍은 답을 비교하여
+맞을 때마다 count배열 내 수를 더해준다.
+
+이후, count배열 내에서 가장 큰 수를 찾은 뒤, 
+해당 수를 맞춘 수포자를 벡터에 넣어주면 끝!.
+
+*/
+
 vector<int> solution(vector<int> answers) {
     vector<int> answer;
     int count[3]{ 0, };

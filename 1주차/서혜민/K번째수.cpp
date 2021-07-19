@@ -4,6 +4,15 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+2021.07.12 서혜민
+
+해당 코멘드의 몇번째부터 몇번째까지를 나타내는 수를 추출해서,
+그 수를 정렬을 시킨 뒤 몇번째의 수를 벡터에 넣어주면 된다.
+
+*/
+
 vector<int> solution(vector<int> array, vector<vector<int>> commands) {
     vector<int> result;
     vector<int> answer;
