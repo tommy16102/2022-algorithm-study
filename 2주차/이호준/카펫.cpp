@@ -8,7 +8,7 @@ brown은 카펫의 외부 1줄을 감싸는 개수이다.
 brown : 2*wide + 2*height -4
 yellow : (height-2) * (width-2)
 위와 같은 관계를 가진다.
-parameter로 받은 brown과 yello로 카펫의 size를 알수있다.
+parameter로 받은 brown과 yellow로 카펫의 size를 알수있다.
 문제에서 width가 더 크거나 같다고 했다.
 width * height = size 이고 이는 size의 약수와 같다.
 sqrt(size)를 구해 문제에서 가능한 width의 최대 길이를 구하고
@@ -19,7 +19,7 @@ sqrt(size)를 구해 문제에서 가능한 width의 최대 길이를 구하고
 #include <cmath>
 #include <iostream>
 using namespace std;
-
+// 1 2 3 4 6 12
 vector<int> solution(int brown, int yellow)
 {
     vector<int> answer;

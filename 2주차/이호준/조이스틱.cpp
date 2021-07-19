@@ -102,40 +102,40 @@ int main(void)
     cout << "정답 : 23  : " << solution("JAN");
 }
 
-//// 45.5 시간초과
-//
-//int solution(string name) {
-//	int answer = 0;
-//	string target = "";
-//	for (int i = 0; i < name.size(); i++) {
-//		target += "A";
-//	}
-//	int current = 0;
-//	while (target != name) {
-//		if (target[current] != name[current]) {
-//			if (name[current] >= 'N') {
-//				answer += 26 - (name[current] - target[current]);
-//			}
-//			else {
-//				answer += name[current] - target[current];
-//			}
-//			target[current] = name[current];
-//		}
-//		// find next location left or right
-//		if (current + 1 < name.size() && target[current + 1] == name[current + 1]) {
-//			current--;
-//			if (current < 0) {
-//				current = name.size() - 1;
-//			}
-//		}
-//		else if (current + 1 == name.size()) {
-//			current = 0;
-//		}
-//		else {
-//			current++;
-//		}
-//		// cursor move
-//		answer += 1;
-//	}
-//	return answer - 1;
-//}
+// //// 45.5 시간초과
+// //
+// //int solution(string name) {
+// //	int answer = 0;
+// //	string target = "";
+// //	for (int i = 0; i < name.size(); i++) {
+// //		target += "A";
+// //	}
+// //	int current = 0;
+// //	while (target != name) {
+// //		if (target[current] != name[current]) {
+// //			if (name[current] >= 'N') {
+// //				answer += 26 - (name[current] - target[current]);
+// //			}
+// //			else {
+// //				answer += name[current] - target[current];
+// //			}
+// //			target[current] = name[current];
+// //		}
+// //		// find next location left or right
+// //		if (current + 1 < name.size() && target[current + 1] == name[current + 1]) {
+// //			current--;
+// //			if (current < 0) {
+// //				current = name.size() - 1;
+// //			}
+// //		}
+// //		else if (current + 1 == name.size()) {
+// //			current = 0;
+// //		}
+// //		else {
+// //			current++;
+// //		}
+// //		// cursor move
+// //		answer += 1;
+// //	}
+// //	return answer - 1;
+// //}
