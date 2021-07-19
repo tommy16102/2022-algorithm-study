@@ -23,10 +23,12 @@ O(n^2)으로 자신의 값보다 작은 값을 갖는 지점을 찾아 해당 �
 #include <iostream>
 using namespace std;
 
-vector<int> solution(vector<int> prices) {
+vector<int> solution(vector<int> prices)
+{
 	vector<int> answer;
 	stack<int> stack;
-	for (int i = 0; i < prices.size(); i++) {
+	for (int i = 0; i < prices.size(); i++)
+	{
 		int current = prices[i];
 		int j = i + 1;
 		stack.push(current);
@@ -34,26 +36,45 @@ vector<int> solution(vector<int> prices) {
 			stack.push(prices[j++]);
 		if (stack.size() == prices.size() - i)
 			answer.push_back(stack.size() - 1);
+		else if (i == prices.size() - 1)
+			answer.push_back(0);
 		else
-			if (i == prices.size() - 1)
-				answer.push_back(0);
-			else
-				answer.push_back(stack.size());
+			answer.push_back(stack.size());
 		while (!stack.empty())
 			stack.pop();
 	}
 	return answer;
 }
 
-int main(void) {
-	vector<int> a = { 1, 2, 3, 2, 3 };
-	vector<int> b = { 5, 8, 6, 2, 4, 1 };
+int main(void)
+{
+	vector<int> a = {1, 2, 3, 2, 3};
+	vector<int> b = {5, 8, 6, 2, 4, 1};
 	cout << "answer : [4, 3, 1, 1, 0]\t>>  ";
-	for (auto & x : solution(a))
+	for (auto &x : solution(a))
 		cout << x << "  ";
 	cout << "\nanswer : [3, 1, 1, 2, 1, 0]\t>>  ";
-	for (auto & x : solution(b))
+	for (auto &x : solution(b))
 		cout << x << "  ";
 	//[1, 2, 3, 2, 3]	[4, 3, 1, 1, 0]
 	//[5, 8, 6, 2, 4, 1] [3, 1, 1, 2, 1, 0]
 }
+
+// 프로그래머스 풀이
+// vector<int> solution(vector<int> prices) {
+//     vector<int> answer(prices.size());
+//     stack<int> s;
+//     int size = prices.size();
+//     for(int i=0;i<size;i++){
+//         while(!s.empty()&&prices[s.top()]>prices[i]){
+//             answer[s.top()] = i-s.top();
+//             s.pop();
+//         }
+//         s.push(i);
+//     }
+//     while(!s.empty()){
+//         answer[s.top()] = size-s.top()-1;
+//         s.pop();
+//     }
+//     return answer;
+// }
