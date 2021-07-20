@@ -1,15 +1,15 @@
-# 2021-Algorithm-Study
-  + 코딩테스트 알고리즘 스터디 &#128293;
-# Study Member
+# 2021-Algorithm-Study &#128293;
+  + 코딩테스트 알고리즘 스터디 
+# Study Member &#128100;
   + 서혜민 (팀장)
   + 이호준
   + 정환훈
-# Information
+# Information &#128227;
   + C++
   + Programmers
   + Baekjoon OJ
   + 매주 월요일 14시 meeting
-# 목차
+# 목차 &#128204;
   1. 1주차 : Programmers 코딩테스트 고득점 Kit 주제별 첫 번째 문제  
     📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 
   2. 2주차 : Programmers 코딩테스트 고득점 Kit level 2  
