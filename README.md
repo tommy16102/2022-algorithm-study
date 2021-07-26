@@ -16,3 +16,5 @@
     📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 
   3. 3주차 : Baekjoon OJ 알고리즘 중급 Greedy  
     📖 [Baekjoon 알고리즘 중급 Greedy](https://www.acmicpc.net/workbook/view/3978)
+  4. 4주차 : Baekjoon OJ SW 역량테스트 준비 - 기초 DP  
+    📖 [Baekjoon SW 역량테스트 준비 - 기초 DP](https://www.acmicpc.net/workbook/view/3939)
