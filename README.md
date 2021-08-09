@@ -18,5 +18,7 @@
     📖 [Baekjoon 알고리즘 중급 Greedy](https://www.acmicpc.net/workbook/view/3978)
   4. 4주차 : Baekjoon OJ SW 역량테스트 준비 - 기초 DP  
     📖 [Baekjoon SW 역량테스트 준비 - 기초 DP](https://www.acmicpc.net/workbook/view/3939)
-  5. 5주차 : Baekjoon OJ DFS/BFS 문제집 
-    📖 [Baekjoon DFS/BFS 문제집](https://www.acmicpc.net/workbook/view/8507)    
+  5. 5주차 : Baekjoon OJ DFS/BFS 문제집  
+    📖 [Baekjoon DFS/BFS 문제집](https://www.acmicpc.net/workbook/view/8507)
+  6. 6주차 : Baekjoon OJ BFS/DFS/Brute Force  
+    📖 [Baekjoon 6주차 문제집](https://www.acmicpc.net/workbook/view/8641)
