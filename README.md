@@ -26,3 +26,5 @@
     📖 [Baekjoon 알고리즘 중급 자료구조 2](https://www.acmicpc.net/workbook/view/3991)
   8. 8주차 : Baekjoon OJ BFS/DFS + 스택    
     📖 [Baekjoon OJ BFS/DFS + 스택](https://www.acmicpc.net/workbook/view/8760)
+  9. 9주차 : Baekjoon OJ 이분 탐색 + 다익스트라    
+    📖 [Baekjoon OJ 이분 탐색 + 다익스트라](https://www.acmicpc.net/workbook/view/8856)
