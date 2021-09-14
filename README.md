@@ -8,7 +8,7 @@
   + C++
   + Programmers
   + Baekjoon OJ
-  + 매주 월요일 14시 meeting
+  + 매주 금요일 15시 meeting
 # 목차 &#128204;
   1. 1주차 : Programmers 코딩테스트 고득점 Kit 주제별 첫 번째 문제  
     📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 
