@@ -29,4 +29,6 @@
   9. 9주차 : Baekjoon OJ 이분 탐색 + 다익스트라    
     📖 [Baekjoon OJ 이분 탐색 + 다익스트라](https://www.acmicpc.net/workbook/view/8856)
   10. 10주차 : Programmers 코딩테스트 고득점 Kit level 3 - 해시, DP, DFS/BFS  
+    📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
+  11. 11주차 : Programmers 코딩테스트 고득점 Kit level 3 - 힙, 그리디, DFS/BFS  
     📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 
