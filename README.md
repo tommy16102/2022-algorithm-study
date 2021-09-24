@@ -32,5 +32,5 @@
     📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
   11. 11주차 : Programmers 코딩테스트 고득점 Kit level 3 - 힙, 그리디, DFS/BFS  
     📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 
-  12. 12주차 : Baekjoon OJ 초등학교를 졸업하자 - KOI편 
+  12. 12주차 : Baekjoon OJ 초등학교를 졸업하자 - KOI편  
     📖 [Baekjoon OJ 초등학교를 졸업하자 - KOI편 ](https://www.acmicpc.net/workbook/view/140) 
