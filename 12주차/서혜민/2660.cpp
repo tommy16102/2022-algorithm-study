@@ -4,7 +4,7 @@
 #include <limits.h>
 using namespace std;
 
-/* 2021.09.27 플로이드 와샬(삼중 포문)을 이용.
+// 2021.09.27 플로이드 와샬(삼중 포문)을 이용.
 
 int main() { 
 	ios::sync_with_stdio(0);
