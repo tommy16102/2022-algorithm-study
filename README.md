@@ -34,7 +34,10 @@
     📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 
   12. 12주차 : Baekjoon OJ 초등학교를 졸업하자 - KOI편  
     📖 [Baekjoon OJ 초등학교를 졸업하자 - KOI편 ](https://www.acmicpc.net/workbook/view/140)  
-  12. 13주차 : Baekjoon OJ DP  
+  13. 13주차 : Baekjoon OJ DP  
     📖 [Baekjoon OJ DP](https://www.acmicpc.net/workbook/view/9077)  
+  14. 14주차 : Baekjoon OJ DP  
+    📖 [Baekjoon OJ DP](https://www.acmicpc.net/workbook/view/9146)  
     
-    https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md ?
+  
+  [백준 문제 모음](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
