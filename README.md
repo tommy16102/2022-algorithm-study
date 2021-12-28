@@ -1,5 +1,5 @@
 # 2022-Algorithm-Study &#128293;
-  + 코딩테스트 알고리즘 스터디(2021~?)     
+  + 코딩테스트 알고리즘 스터디(2021~)     
 # Study Member &#128100;
   + 서혜민 (팀장)
   + 이호준
@@ -8,8 +8,9 @@
   + C++
   + Programmers
   + Baekjoon OJ
-  + 매주 금요일 15시 meeting
+  + 매주 수요일 meeting
 # 목차 &#128204;
+## 2021  
   1. 1주차 : Programmers 코딩테스트 고득점 Kit 주제별 첫 번째 문제  
     📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 
   2. 2주차 : Programmers 코딩테스트 고득점 Kit level 2  
@@ -38,6 +39,10 @@
     📖 [Baekjoon OJ DP](https://www.acmicpc.net/workbook/view/9077)  
   14. 14주차 : Baekjoon OJ DP  
     📖 [Baekjoon OJ DP](https://www.acmicpc.net/workbook/view/9146)  
+***  
+## 2022  
+  1. 1주차 : Baekjoon OJ 문제집  
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/9741)  
     
   
-  [백준 문제 모음](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+  
