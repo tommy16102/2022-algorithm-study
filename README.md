@@ -10,7 +10,7 @@
   + Baekjoon OJ
   + 매주 수요일 meeting
 # 목차 &#128204;
-## 2021;
+## 2021  
   1. 1주차 : Programmers 코딩테스트 고득점 Kit 주제별 첫 번째 문제  
     📖 [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 
   2. 2주차 : Programmers 코딩테스트 고득점 Kit level 2  
@@ -40,7 +40,7 @@
   14. 14주차 : Baekjoon OJ DP  
     📖 [Baekjoon OJ DP](https://www.acmicpc.net/workbook/view/9146)  
 ***  
-## 2022;
+## 2022  
   1. 1주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/9741)  
     
