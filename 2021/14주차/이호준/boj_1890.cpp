@@ -67,7 +67,6 @@ int main(void)
                 continue;
             if (i == n - 1 && j == n - 1)
                 continue;
-
             if (i != 0 && answer[i][j] != -1)
             {
                 if (j + map[i][j] < n)
