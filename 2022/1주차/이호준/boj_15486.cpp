@@ -39,6 +39,7 @@ int main(void)
         {
             answer[i + input[i][0]] = answer[i] + input[i][1];
         }
+
         if (i + 1 < day + 1 && answer[i] > answer[i + 1])
         {
             answer[i + 1] = answer[i];
