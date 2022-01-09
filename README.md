@@ -43,6 +43,8 @@
 ## 2022  
   1. 1주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/9741)  
+  2. 2주차 : Baekjoon OJ 문제집  
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/9889)   
     
   
   
