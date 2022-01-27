@@ -46,6 +46,8 @@
   2. 2주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/9889)   
   3. 3주차 : Baekjoon OJ 문제집  
-    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/10028) 
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/10028)  
+  3. 4주차 : Baekjoon OJ 문제집  
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/10085) 
   
   
