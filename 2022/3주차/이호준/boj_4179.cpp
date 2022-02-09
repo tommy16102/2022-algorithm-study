@@ -53,6 +53,7 @@ int main(void)
         cout << 1 << endl;
         return 0;
     }
+
     queue<pair<pair<int, int>, int>> q;
     queue<pair<pair<int, int>, int>> fires;
     map[start.first][start.second] = '.';
@@ -100,6 +101,7 @@ int main(void)
 
     for (int j = 0; j < fire.size(); j++)
         fires.push({{fire[j].first, fire[j].second}, 0});
+
     while (!q.empty())
     {
 
