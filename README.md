@@ -51,5 +51,7 @@
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/10085)  
   5. 5주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/10221)  
+  6. 6주차 : Baekjoon OJ 문제집  
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/10370)  
   
   
