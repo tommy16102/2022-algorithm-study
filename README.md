@@ -55,5 +55,7 @@
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/10370)  
   7. 7주차 : Programmers 2021 카카오 체용연계형 인턴십  
     📖 [Programmers 2021 카카오 체용연계형 인턴십](https://programmers.co.kr/learn/challenges?tab=all_challenges)   
+  8. 8주차 : Baekjoon OJ 문제집  
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/10724)
   
   
