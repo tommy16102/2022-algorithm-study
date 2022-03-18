@@ -3,11 +3,6 @@
 #include <string.h>
 using namespace std;
 
-int arr[51][51];
-int copyArr[51][51];
-int moveI[4] = { -1,0,1,0 };
-int moveJ[4] = { 0,1,0,-1 };
-
 /*
 
 2022.3.18
@@ -17,6 +12,11 @@ int moveJ[4] = { 0,1,0,-1 };
 이후 공기청정기로 인한 8가지 방향에 맞춰서 for문을 통해 배열에 저장된 값들을 이동을 시켜준다.
 
 */
+
+int arr[51][51];
+int copyArr[51][51];
+int moveI[4] = { -1,0,1,0 };
+int moveJ[4] = { 0,1,0,-1 };
 
 int main() {
 	ios::sync_with_stdio(false);
