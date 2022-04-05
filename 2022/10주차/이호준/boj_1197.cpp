@@ -6,11 +6,11 @@ Baekjoon OJ Minimum Spanning Tree (MST) Kruskal Algorithm
 2022/04/04 이호준
 # 아이디어
 1. 크루스칼 알고리즘을 통한 최소 스패닝 트리 기본 알고리즘 문제 풀이.
+Union-Find Algorithm 이용
 *******************************************************************/
 #include<iostream>
 #include<algorithm>
 #include<vector>
-#include<tuple>
 using namespace std;
 
 int V, E, A, B, C;
