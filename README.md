@@ -63,3 +63,5 @@
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/10847)   
   11. 11주차 : Programmers 2020 카카오 인턴쉽  
     📖 [Programmers 2020 카카오 인턴쉽](https://programmers.co.kr/learn/challenges?tab=all_challenges)  
+  12. 12주차 : Programmers 2022 KAKAO BLIND RECRUITMENT   
+    📖 [Programmers 2022 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges?tab=all_challenges)  
