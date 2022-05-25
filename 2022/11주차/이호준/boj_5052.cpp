@@ -1,13 +1,19 @@
+/*******************************************************************
+Algorithm Study
+Baekjoon OJ 
+5052 접두어
+2022/04/12 이호준
+# 아이디어
+1. string 정렬을 통해서 접두어를 파악한다.
+string을 사전식 정렬하고 뒤에 문자열에 대해서 앞에 문자가 포함되어 있는지 그 위치가 접두어인지 확인하면 된다.
+string을 사전식 정렬하면
+*******************************************************************/
 #include <iostream>
 #include <vector>
 #include <string>
 #include <algorithm>
 
 using namespace std;
-
-// bool comapre(string & a, string &b){
-//     if(a.size())
-// }
 
 int main(void){
 
