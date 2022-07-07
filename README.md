@@ -71,3 +71,5 @@
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/11300)  
   15. 15주차 : Programmers 2019 카카오 개발자 겨울 인턴쉽  
     📖 [Programmers 2019 카카오 개발자 겨울 인턴쉽](https://programmers.co.kr/learn/challenges)  
+  16. 16주차 : Baekjoon OJ 문제집  
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/11858)  
