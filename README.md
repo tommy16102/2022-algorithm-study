@@ -4,6 +4,7 @@
   + 서혜민 (팀장)
   + 이호준
   + 정환훈
+  + 이정욱
 # Information &#128227;
   + C++
   + Programmers
