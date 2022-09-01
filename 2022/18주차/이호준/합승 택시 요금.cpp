@@ -1,3 +1,11 @@
+/*******************************************************************
+Algorithm Study
+2021 Kakao Blind
+합승 택시 요금 level 3
+2022/08/30 이호준
+# 아이디어
+1. Floyd Warshall Algorithm
+*******************************************************************/
 #include <string>
 #include <vector>
 #include <algorithm>
