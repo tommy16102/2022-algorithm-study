@@ -6,10 +6,10 @@
   + 정환훈
   + 이정욱
 # Information &#128227;
-  + C++
+  + C++, JS, Python
   + Programmers
   + Baekjoon OJ
-  + 매주 수요일 meeting
+  + 매주 목요일 meeting
 # 목차 &#128204;
 ## 2021  
   1. 1주차 : Programmers 코딩테스트 고득점 Kit 주제별 첫 번째 문제  
@@ -79,4 +79,6 @@
   18. 18주차 : Programmers 2021 KAKAO BLIND RECRUITMENT  
     📖 [Programmers 2021 KAKAO BLIND RECRUITMENT](https://school.programmers.co.kr/learn/challenges)  
   19. 19주차 : Programmers 2020 KAKAO BLIND RECRUITMENT  
-    📖 [Programmers 2020 KAKAO BLIND RECRUITMENT](https://school.programmers.co.kr/learn/challenges)     
+    📖 [Programmers 2020 KAKAO BLIND RECRUITMENT](https://school.programmers.co.kr/learn/challenges)   
+  20. 20주차 : Programmers 2019 KAKAO BLIND RECRUITMENT  
+    📖 [Programmers 2019 KAKAO BLIND RECRUITMENT](https://school.programmers.co.kr/learn/challenges) 
