@@ -1,3 +1,11 @@
+/*******************************************************************
+Algorithm Study
+2019 Kakao Blind
+오픈채팅방 level 2
+2022/09/16 이호준
+# 아이디어
+1. map을 이용한 구현
+*******************************************************************/
 #include <string>
 #include <vector>
 #include <unordered_map>
@@ -6,8 +14,6 @@
 using namespace std;
 
 unordered_map<string, string> users;
-
-
 
 vector<string> solution(vector<string> record) {
     vector<string> answer;
@@ -26,7 +32,6 @@ vector<string> solution(vector<string> record) {
         if (command == "Enter" || command == "Leave"){
             parsing_result.push_back(vector<string>{command, user_id});
         }
-        // cout << command << " " << user_id << " " << nick_name <<"\n";
     }
     
     for(auto command : parsing_result){
