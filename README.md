@@ -84,3 +84,5 @@
     📖 [Programmers 2019 KAKAO BLIND RECRUITMENT](https://school.programmers.co.kr/learn/challenges) 
   21. 21주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/49600)
+  22. 22주차 : Baekjoon OJ 문제집  
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/49935)
