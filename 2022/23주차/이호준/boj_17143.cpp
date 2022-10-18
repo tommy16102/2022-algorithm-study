@@ -2,7 +2,7 @@
 17143 낚시왕
 2022/10/18 이호준
 # 아이디어
-1. 
+1. 구현 (삼성기출)
 *******************************************************************/
 #include <iostream>
 #include <vector>
@@ -83,8 +83,8 @@ int main(void) {
                         }
                         temp[next_x][next_y].push_back(Shark{speed, current_direction, current_shark.size});
                     }else{
+                        int time = speed % ((c - 1) * 2);
                         while(time != 0){
-                            int time = speed % ((c - 1) * 2);
                             next_x = next_x + leftRightX[current_direction - 3];
                             next_y = next_y + leftRightY[current_direction - 3];
                             if(next_x < 0 || next_x >=r || next_y < 0 || next_y >=c ){
