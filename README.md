@@ -101,3 +101,5 @@
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/50065)
 24. 24주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view//11505/50200)
+25. 25주차 : Baekjoon OJ 문제집  
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view//11505/50642)
