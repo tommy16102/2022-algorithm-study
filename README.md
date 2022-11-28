@@ -154,8 +154,8 @@
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view//11505/51008)
     - 2342 Dance Dance Revolution
     - 9466 텀 프로젝트
-    - 9527 1의 개수 세기
     - 10775 공항
     - 16724 피리 부는 사나이
     - 2263 트리의 순회
     - 1865 웜홀
+    - 5525 IOIOI
