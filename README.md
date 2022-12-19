@@ -163,3 +163,5 @@
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/13428)
 29. 29주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/13477)
+30. 30주차 : Baekjoon OJ 문제집  
+    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/13538)
