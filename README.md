@@ -95,70 +95,18 @@
     📖 [Programmers 2019 KAKAO BLIND RECRUITMENT](https://school.programmers.co.kr/learn/challenges)
 21. 21주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/49600)    
-      - 3687 성냥개비
-      - 1034 램프
-      - 1939 중량제한
-      - 2212 센서
-      - 2602 돌다리 건너기
-      - 1477 휴게소 세우기
-      - 11812 K진 트리
-      - 3020 개똥벌레
 22. 22주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/49935)
-    - 3079 입국심사
-    - 10282 해킹
-    - 1105 팔
-    - 1092 배
-    - 11399 ATM
-    - 2457 공주님의 정원
-    - 9203 호텔 예약
 23. 23주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/50065)
-    - 2629 양팔저울
-    - 1561 놀이 공원
-    - 16562 친구비
-    - 10942 팰린드롬?
-    - 15961 회전 초밥
-    - 17143 낚시왕
-    - 2565 전깃줄
-    - 13305 주유소
 24. 24주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view//11505/50200)
-    - 16918 봄버맨
-    - 1325 효율적인 해킹
-    - 1027 고층 건물
-    - 2002 추월
-    - 10830 행렬 제곱
-    - 7570 줄 세우기
-    - 2343 기타 레슨
-    - 17609 회문
 25. 25주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view//11505/50642)
-    - 17404 RGB거리 2
-    - 7682 틱택토
-    - 3584 가장 가까운 공통 조상
-    - 14725 개미굴
-    - 1202 보석 도둑
-    - 2696 중앙값 구하기
-    - 1644 소수의 연속합
 26. 26주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view//11505/50778)
-    - 1043 거짓말
-    - 1918 후위 표기식
-    - 11054 가장 긴 바이토닉 부분 수열
-    - 14938 서강그라운드
-    - 2143 두 배열의 합
-    - 2473 세 용액
-    - 2623 음악프로그램
 27. 27주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view//11505/51008)
-    - 2342 Dance Dance Revolution
-    - 9466 텀 프로젝트
-    - 10775 공항
-    - 16724 피리 부는 사나이
-    - 2263 트리의 순회
-    - 1865 웜홀
-    - 5525 IOIOI
 28. 28주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/13428)
 29. 29주차 : Baekjoon OJ 문제집  
@@ -167,3 +115,12 @@
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/13538)
 31. 31주차 : Baekjoon OJ 문제집  
     📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/13608)
+
+
+---
+
+## 2023
+
+1. 4월 3주차 : Baekjoon OJ 문제집  
+   📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/15191)
+   
