@@ -127,4 +127,5 @@
    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/workbook/view/15287)
 3. 5월 1주차 : Programmers 2022 KAKAO TECH INTERNSHIP, 2023 KAKAO BLIND RECRUITMENT    
    📖 [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=37527%2C31236)
-   
+4. 5월 2주차 : Baekjoon OJ 문제집
+   📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/57405)
