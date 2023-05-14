@@ -1,3 +1,11 @@
+/*******************************************************************
+Algorithm Study
+Baekjoon 13422 도둑
+2023/05/14 이호준
+# 아이디어
+1. 슬라이딩 윈도우
+*******************************************************************/
+
 #include <iostream>
 
 using namespace std;
@@ -12,7 +20,7 @@ int main(){
         for(int i = 0; i < n; i++) 
             cin >> a[i];
         int ans=0,sum=0;
-        for(int i = 0; i < M; i++)
+        for(int i = 0; i < m; i++)
             sum+=a[i];
         if(sum < k) 
             ans++;
