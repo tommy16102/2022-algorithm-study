@@ -135,3 +135,5 @@
    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/57911)
 7. 5월 5주차 : Baekjoon OJ 문제집  
    📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/58163)
+8. 6월 1주차 : Baekjoon OJ 문제집
+   📖 [Baekjoon OJ 문제집](https://www.acmicpc.net/group/workbook/view/11505/58377)
